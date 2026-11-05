@@ -1,0 +1,9 @@
+Feature,Importance
+numerical__Torque [Nm],0.3214011992749056
+numerical__Rotational speed [rpm],0.29917937595290606
+numerical__Tool wear [min],0.21290870658569302
+numerical__Air temperature [K],0.08848467526274213
+numerical__Process temperature [K],0.06111222408401495
+categorical__Type_L,0.007333035732881726
+categorical__Type_M,0.006199792035449167
+categorical__Type_H,0.003380991071407397

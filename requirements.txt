@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+jupyter
+streamlit
+pymupdf
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+requests

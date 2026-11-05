@@ -1,0 +1,5 @@
+.venv/
+AI_ML_Engineer_Assessment.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
